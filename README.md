@@ -8,4 +8,5 @@ This study compares the performance of this novel transformer model against trad
 
 The findings from this study have shown that the application of transformers for vortex identification is both feasible and promising. The results demonstrated a segmentation accuracy of mIoU 62.5% and precision of 88%. Although this was less than the U-Net model in comparison, the findings have enhanced the field of fluid dynamics by introducing a precise, efficient, and reliable methodology for vortex detection and analysis. This approach potentially sets a new standard for future research in applying machine learning to tackle complex challenges in fluid dynamics.
 
+Link to research paper:
 https://drive.google.com/file/d/1coq7w9cAsq6HOPtESBdqqJgtOD2n2CVa/view?usp=drive_link
